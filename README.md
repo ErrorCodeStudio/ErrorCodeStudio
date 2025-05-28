@@ -1,0 +1,6 @@
+-  Hi, I’m @ErrorCodeStudio or known as Nexus and ErrorCode.Nexus
+-  I’m interested in: Game Development
+-  I’m currently learning: Lua, Java, C++, C#
+-  How to reach me: Over discord and Email. Discord: errorcode.nexus, Email: errcode.studio@gmail.com
+-  Pronouns: He/Him
+-  Fun fact: ErrorCode.Studio was originally an Roblox game development group founded by Nexus
